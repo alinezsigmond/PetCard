@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="24" viewBox="0 0 40 24">
+  <g id="Grupo_736" data-name="Grupo 736" transform="translate(-319 -84)">
+    <rect id="Retângulo_1001" data-name="Retângulo 1001" width="40" height="24" rx="12" transform="translate(319 84)" fill="#60a3bc"/>
+    <g id="Retângulo_1002" data-name="Retângulo 1002" transform="translate(335 84)" fill="#fff" stroke="#60a3bc" stroke-width="1">
+      <rect width="24" height="24" rx="12" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" rx="11.5" fill="none"/>
+    </g>
+  </g>
+</svg>

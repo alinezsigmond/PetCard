@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="106" height="640" viewBox="0 0 106 640">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_1537" data-name="Retângulo 1537" width="106" height="640" transform="translate(254)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_de_máscara_6" data-name="Grupo de máscara 6" transform="translate(-254)" clip-path="url(#clip-path)">
+    <g id="Grupo_795" data-name="Grupo 795" transform="translate(-476 851)">
+      <g id="Inputs" transform="translate(731 -522)" opacity="0.3">
+        <rect id="Retângulo_152" data-name="Retângulo 152" width="361" height="372" transform="translate(0 -61)" fill="#92d4ef"/>
+      </g>
+      <rect id="Retângulo_1536" data-name="Retângulo 1536" width="361" height="268" transform="translate(730 -851)" fill="#3c6382"/>
+      <g id="Menu" transform="translate(747 -815)">
+        <path id="Menu-2" data-name="Menu" d="M-6160,14V12h10v2Zm0-6V6h16V8Zm0-6V0h16V2Z" transform="translate(6160 1)" fill="#fff"/>
+        <rect id="Retângulo_1446" data-name="Retângulo 1446" width="16" height="16" transform="translate(0)" fill="none"/>
+      </g>
+      <text id="Aline_Zsigmond" data-name="Aline Zsigmond" transform="translate(911 -628)" fill="#fff" font-size="35" font-family="Quanto"><tspan x="-80.237" y="0">Aline Zsigmond</tspan></text>
+      <g id="Grupo_794" data-name="Grupo 794" transform="translate(720 -851)">
+        <rect id="Retângulo_1465" data-name="Retângulo 1465" width="78" height="78" rx="8" transform="translate(44 320)" fill="#60a3bc"/>
+        <g id="paw" transform="translate(61.774 340.628)">
+          <g id="Grupo_123" data-name="Grupo 123" transform="translate(6.889 15.641)">
+            <g id="Grupo_122" data-name="Grupo 122" transform="translate(0 0)">
+              <path id="Caminho_297" data-name="Caminho 297" d="M108.127,231.789c-2.827-3.413-6.4-5.293-10.062-5.293S90.83,228.376,88,231.789a16.967,16.967,0,0,0-4.058,10.343,4.62,4.62,0,0,0,1.5,3.749,5.667,5.667,0,0,0,3.737,1.1,28.665,28.665,0,0,0,4.944-.624,24.336,24.336,0,0,1,3.935-.525,22.916,22.916,0,0,1,3.61.5c3.227.6,6.884,1.278,9-.479a4.578,4.578,0,0,0,1.514-3.718A16.966,16.966,0,0,0,108.127,231.789Z" transform="translate(-83.945 -226.496)" fill="#fff"/>
+            </g>
+          </g>
+          <g id="Grupo_125" data-name="Grupo 125" transform="translate(21.759 0)">
+            <g id="Grupo_124" data-name="Grupo 124" transform="translate(0 0)">
+              <path id="Caminho_298" data-name="Caminho 298" d="M274.742,38.306a4.641,4.641,0,0,0-8.127,0,9.843,9.843,0,0,0,0,10.361,4.641,4.641,0,0,0,8.127,0,9.844,9.844,0,0,0,0-10.361Z" transform="translate(-265.141 -35.906)" fill="#fff"/>
+            </g>
+          </g>
+          <g id="Grupo_127" data-name="Grupo 127" transform="translate(9.184 0)">
+            <g id="Grupo_126" data-name="Grupo 126">
+              <path id="Caminho_299" data-name="Caminho 299" d="M121.517,38.3a4.641,4.641,0,0,0-8.127,0,9.843,9.843,0,0,0,0,10.361,4.641,4.641,0,0,0,8.127,0,9.843,9.843,0,0,0,0-10.361Z" transform="translate(-111.916 -35.905)" fill="#fff"/>
+            </g>
+          </g>
+          <g id="Grupo_129" data-name="Grupo 129" transform="translate(32.609 11.162)">
+            <g id="Grupo_128" data-name="Grupo 128">
+              <path id="Caminho_300" data-name="Caminho 300" d="M406.514,175.049a4.228,4.228,0,0,0-2.517-2.9,3.955,3.955,0,0,0-3.084.174,6.347,6.347,0,0,0-3.148,3.721,6.862,6.862,0,0,0-.171,4.154,4.228,4.228,0,0,0,2.517,2.9,3.7,3.7,0,0,0,1.305.235,4.2,4.2,0,0,0,1.779-.409,6.347,6.347,0,0,0,3.148-3.721h0A6.862,6.862,0,0,0,406.514,175.049Z" transform="translate(-397.35 -171.912)" fill="#fff"/>
+            </g>
+          </g>
+          <g id="Grupo_131" data-name="Grupo 131" transform="translate(0 11.162)">
+            <g id="Grupo_130" data-name="Grupo 130">
+              <path id="Caminho_301" data-name="Caminho 301" d="M8.994,176.042a6.347,6.347,0,0,0-3.148-3.721,3.956,3.956,0,0,0-3.084-.174,4.228,4.228,0,0,0-2.517,2.9A6.862,6.862,0,0,0,.416,179.2h0a6.347,6.347,0,0,0,3.148,3.721,4.2,4.2,0,0,0,1.779.409,3.7,3.7,0,0,0,1.305-.235,4.228,4.228,0,0,0,2.517-2.9A6.864,6.864,0,0,0,8.994,176.042Z" transform="translate(-0.001 -171.912)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <text id="Meus_pets" data-name="Meus pets" transform="translate(803 -431)" fill="#3c6382" font-size="17" font-family="SummitAttack-Regular, Summit Attack"><tspan x="-28.373" y="0">Meus pets</tspan></text>
+      <g id="Grupo_793" data-name="Grupo 793" transform="translate(720 -851)">
+        <rect id="Retângulo_1468" data-name="Retângulo 1468" width="78" height="78" rx="8" transform="translate(44 480)" fill="#60a3bc"/>
+        <g id="Symbol_113_1" data-name="Symbol 113 – 1" transform="translate(65.87 500.433)">
+          <rect id="Retângulo_305" data-name="Retângulo 305" width="36" height="36" transform="translate(0.13 -0.433)" fill="none"/>
+          <path id="Caminho_114" data-name="Caminho 114" d="M14.751,21.339a6.26,6.26,0,0,0,6.271-6.271,6.453,6.453,0,0,0-6.271-6.5A6.26,6.26,0,0,0,8.48,14.844,6.61,6.61,0,0,0,14.751,21.339ZM4.224,4.317A14.887,14.887,0,0,1,25.277,25.37L14.751,35.9,4.224,25.37A15.293,15.293,0,0,1,4.224,4.317Z" transform="translate(1.984 0.05)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <text id="Clínicas_próximas" data-name="Clínicas 
+próximas" transform="translate(803 -270)" fill="#3c6382" font-size="17" font-family="SummitAttack-Regular, Summit Attack"><tspan x="-24.446" y="0">Clínicas </tspan><tspan x="-25.492" y="15">próximas</tspan></text>
+    </g>
+  </g>
+</svg>
