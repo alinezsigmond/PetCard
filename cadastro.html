@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang=”pt-br”>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA Compatible" content="ie-edge">
+    <title>Pet Card - Cadastro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    
+    <div class="container-cadastro">
+        <header>
+           <img src="images/statusBar-light.svg" alt="iPhone status bar">
+           <img id="cad-logo" src="images/logoText.svg" alt="Logo PetCard">
+           <h1 id="cad-h1">A carteira de vacinação<br>online do seu pet</h1>
+           <div class="cadastro-dog">
+                Cadastro
+           </div>
+           <div class="cadastro-cat">
+                <a id="link-branco" href="login.html">Login</a>
+           </div>
+        </header>
+        
+        <main>
+            <div class="selection-dog">
+
+            </div>
+            
+            <div class="forms">
+
+                <form>
+                    <input type="text" name="nome" placeholder="Nome completo" autocomplete="off" required><br>
+                    <br><input type="email" name="email" placeholder="E-mail" required><br>
+                    <br><input type="email" name="email" placeholder="Confirme o e-mail" required><br>
+                    <br><input type="password" name="senha" placeholder="Senha" required><br>
+                    <br><input type="password" name="senha" placeholder="Confirme a senha" required><br>
+                </form>
+                    
+
+            </div>
+
+        </main>
+        <div class="container-info">
+            <h2>Informações pessoais</h2>
+
+            <form>
+                <input type="date" name="nasc" placeholder="Data de Nascimento" required> <br><br>
+                <select id="pais">
+                    <option>Selecione o país</option>
+                    <option>Brasil</option>
+                    <option>Argentina</option>
+                    <option>Paraguai</option>
+                </select><br><br>
+                <select name="estado">
+                    <option>Paraná</option>
+                </select><br><br>
+                <input type="text" placeholder="Cidade" required><br><br>
+            </form> 
+            <footer><a href="login.html">
+                <p><img src="images/arrowRight.svg" alt="Seta para direita"></p></a>
+            </footer>
+        </div>
+        
+    </div>
+
+</body>
+
+</html>

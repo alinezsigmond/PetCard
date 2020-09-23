@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang=”pt-br”>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA Compatible" content="ie-edge">
+    <title>Pet Card - A carteira de vacinação online do seu pet</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    
+    <div class="container">
+        <header>
+           <img src="images/statusBar-light.svg" alt="iPhone status bar">
+           <a href="meus-pets.html"><img id="back" src="images/arrowLeft.svg"  alt="Voltar"></a>
+           <h1>Qual pet deseja cadastrar?</h1>
+           <h2>Preencha o formulário. Quanto mais informação, melhor!</h2>
+           <div class="cadastro-dog">
+                <p>Cachorro</p>
+           </div>
+           <div class="cadastro-cat">
+                <a id="link-branco" href="cadastro-cat.html"><p>Gato</p></a>
+           </div>
+        </header>
+        
+        <main>
+            <div class="selection-dog">
+
+            </div>
+            
+            <div class="forms">
+
+                <form>
+                    <input type="text" name="nome" placeholder="Nome" autocomplete="off" required></form></label>
+                    <br>
+
+                    <input type="date" name="nascDog" placeholder="Data de Nascimento" required><br>
+
+                    <br><select id="sexoDog" name="sexoDog" required>
+                        <option>Selecione o sexo</option>
+                        <option value="femCas">Fêmea castrada</option>
+                        <option value="femFer">Fêmea fértil</option>
+                        <option value="macCas">Macho castrado</option>
+                        <option value="macFer">Macho fértil</option>
+                    </select><br>
+
+                    <br><input type="number" name="pesoDog" placeholder="Peso kg"><br>
+    
+                    <br><select id="dogbreeds" name="dogbreeds">
+                        <option>Selecione a raça</option>
+                        <option value="SRD">SRD (Sem raça definida)</option>
+                        <option value="Lhasa-apso">Lhasa-apso</option>
+                        <option value="Labrador">Labrador</option>
+                        <option value="Pinscher">Pinscher</option>
+                    </select>
+
+                    
+
+            </div>
+
+        </main>
+        <footer><a href="meus-pets.html">
+            <p><img src="images/arrowRight.svg" alt="Seta para direita"></p></a>
+        </footer>
+    </div>
+
+</body>
+
+</html>
