@@ -1,10 +1,10 @@
 @font-face {
     font-family: Summit Attack;
-    src:url('src/fonts/Summit-Attack.ttf')
+    src:url('Fonts/Summit-Attack.ttf')
 }
 @font-face {
     font-family: Quanto;
-    src:url('src/fonts/Quanto.otf')
+    src:url('Fonts/Quanto.otf')
 }
 
 .container {
